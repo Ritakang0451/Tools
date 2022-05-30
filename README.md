@@ -10,4 +10,4 @@ https://english.cool/time/
 
 # live
 
-[](https://github.com/obsproject/obs-studio)
+[OBS](https://github.com/obsproject/obs-studio)
