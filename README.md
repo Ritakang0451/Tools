@@ -6,7 +6,9 @@ assistance
 
 # Toos - LBS
 
-[MAPBOX-GTIHUB REPO](https://github.com/mapbox)
+[MAPBOX](https://www.mapbox.com/)
+
+https://github.com/mapbox
 
 [EMPORIS](https://www.emporis.com/buildings/map#c=53.574023,10.017872&z=13)
 
